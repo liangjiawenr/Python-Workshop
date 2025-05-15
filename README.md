@@ -1,7 +1,7 @@
 # Python-Workshop
 This repository stores the teaching materials for AccFin PhD Python Workshop in Nov 2022, University of Glasgow.
 
-Authors: Jiawen Liang, Zhonghao Jiang
+Authors: Dr. Jiawen Liang, Dr. Zhonghao Jiang
 
 UPDATE 01 Nov: updated and added solutions to the notebook presented on 1st Nov.
 
